@@ -25,4 +25,4 @@ The openpilot codebase has been written to be concise and to enable rapid protot
 | 东风本田CRV                | 2019 混动             | 无锡 | EON+BOSCH长颈鹿+熊猫     |            |  | 20190523       | |
 | 东风本田CRV                | 2019 混动             | 广州 | EON+BOSCH长颈鹿+熊猫     |            |  | 20190523       | |
 | 东风本田CRV                | 2017 混动             | 上海金山  | EON+BOSCH长颈鹿+熊猫     |            |  | 20190523       | |
-| 凌志                |            | 上海杨浦  | EON+toyota长颈鹿+灰熊猫     |            |  | 20190523       | |
+| 凌志 RX300               |  2018          | 上海杨浦  | EON+toyota长颈鹿+熊猫     |     5.10 | 偶尔加速时候转弯会偏离车道        | 20190523       | |
